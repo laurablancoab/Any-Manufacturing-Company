@@ -15,10 +15,10 @@ Como consultora especializada en análisis de datos, nos propusimos no solo ayud
 El primer paso fue comprender los datos existentes. La empresa ya había recopilado en 6 archivos, información sobre ventas, stock, compras, entregas y producción, pero los datos no estaban estructurados de manera óptima. Nuestro equipo comenzó a depurar y organizar estos datos, utilizando herramientas avanzadas de análisis para extraer patrones y puntos críticos.
 
 Nos enfocamos en los siguientes objetivos:
-    1. Identificar patrones y tendencias en los datos de inventarios.
-    2. Analizar la eficiencia del proceso de gestión de inventarios.
-    3. Detectar áreas de mejora para reducir costos y optimizar el stokc.
-    4. Desarrollar un modelo de previsión para anticipar la demanda.
+1. Identificar patrones y tendencias en los datos de inventarios.
+2. Analizar la eficiencia del proceso de gestión de inventarios.
+3. Detectar áreas de mejora para reducir costos y optimizar el stokc.
+4. Desarrollar un modelo de previsión para anticipar la demanda.
        
 🢧 La Implementación: Transformación en Tiempo Real
 
@@ -26,11 +26,11 @@ Se requiere 4 semanas de análisis, para presentar un informe detallado con reco
 Esto permitirá a la empresa tomar decisiones más informadas, como ajustar los pedidos de producción según las proyecciones de demanda, gestionar mejor las compras de insumos y coordinar eficientemente las entregas.
 
 Para este primer avance y presentación se ha avanzado en:
-    • la creación de una Base de Datos que unifique la información de los archivos suministrados por la empresa 
-    • Gestionar dicha base de Datos para que a través de un modelo de tablas y relaciones que permita obtener interacciones entre ellas
-    • Crear un flujo de interacción entre los archivos que genera la operatoria de la empresa y la base de Datos que se ha creado, para validar y asegurar los datos 
-    • Interactuar con la base de datos para asegurar su funcionamiento y acceso a ella por los usuarios que designe la gerencia
-    • Desarrollar, implementar y poner en practica un sistema de automatización para que los datos nuevos sean incluidos en la base de Datos ya desarrollada. Este sistema garantiza la actualización eficaz de los datos que la empresa genera en su operatoria diaria  
+* la creación de una Base de Datos que unifique la información de los archivos suministrados por la empresa
+* Gestionar dicha base de Datos para que a través de un modelo de tablas y relaciones que permita obtener interacciones entre ellas
+* Crear un flujo de interacción entre los archivos que genera la operatoria de la empresa y la base de Datos que se ha creado, para validar y asegurar los datos
+* Interactuar con la base de datos para asegurar su funcionamiento y acceso a ella por los usuarios que designe la gerencia
+* Desarrollar, implementar y poner en practica un sistema de automatización para que los datos nuevos sean incluidos en la base de Datos ya desarrollada. Este sistema garantiza la actualización eficaz de los datos que la empresa genera en su operatoria diaria  
 
 🢧 Los resultados buscados
 
