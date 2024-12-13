@@ -14,7 +14,7 @@ La situación de Any Manufacturing Company refleja problemas en su cadena de sum
 
 Como consultora especializada en análisis de datos, nos propusimos no solo ayudarles a visualizar sus stocks, sino a transformar su forma de operar mediante el poder de los datos. El primer paso fue comprender los datos existentes. La empresa ya había recopilado en 6 archivos, información sobre ventas, stock, compras, entregas y producción, pero los datos no estaban estructurados de manera óptima. Nuestro equipo comenzó a depurar y organizar estos datos, utilizando herramientas avanzadas de análisis para extraer patrones y puntos críticos.
 
-#### Nos enfocamos en los siguientes objetivos:
+#### :fa-check: Nos enfocamos en los siguientes objetivos:
 
 - Identificar patrones y tendencias en los datos de inventarios
 - Analizar la eficiencia del proceso de gestión de inventarios.
@@ -25,7 +25,7 @@ Como consultora especializada en análisis de datos, nos propusimos no solo ayud
 
 Se requiere 4 semanas de análisis, para presentar un informe detallado con recomendaciones específicas, que incluya un modelo de pronóstico de demanda más preciso y una herramienta para monitorizar los stocks en tiempo real. Además, implementar un dashboard interactivo que permitiera al equipo de la empresa visualizar, el estado de sus inventarios en todas sus ubicaciones. Esto permitirá a la empresa tomar decisiones más informadas, como ajustar los pedidos de producción según las proyecciones de demanda, gestionar mejor las compras de insumos y coordinar eficientemente las entregas.
 
-#### Para este primer avance y presentación se ha avanzado en:
+#### Para el primer avance del proyecto se han realizado las siguientes tareas: 
 
 - Crear una Base de Datos que unifique la información de los archivos suministrados por la empresa
 - Gestionar dicha base de Datos para que a través de un modelo de tablas y relaciones que permita obtener interacciones entre ellas
@@ -35,6 +35,15 @@ Se requiere 4 semanas de análisis, para presentar un informe detallado con reco
 - Crear un flujo de interacción entre los archivos que genera la operatoria de la empresa y la base de Datos que se ha creado, para validar y asegurar los datos
 - Interactuar con la base de datos para asegurar su funcionamiento y acceso a ella por los usuarios que designe la gerencia
 - Desarrollar, implementar y poner en practica un sistema de automatización para que los datos nuevos sean incluidos en la base de Datos ya desarrollada. Este sistema garantiza la actualización eficaz de los datos que la empresa genera en su operatoria diaria
+
+#### Para el segundo avance del proyecto se realizaron las siguientes tareas: 
+
+- Crear el archivo .pbix para implementar un Dashboard interactivo con gráficos con Power BI
+- Importar los datos en power BI, realizar métricas y cálculos
+- En Python realizar análisis EDA con los archivos suministrados por la empresa
+- Buscar y evaluar regresiones para modelo de Machine Learning
+- Diseñar los reportes y gráficos que formarán parte del informe final y conclusiones
+
 
 ### 🢧 Los resultados buscados
 
