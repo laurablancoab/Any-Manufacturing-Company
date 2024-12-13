@@ -14,7 +14,7 @@ La situación de Any Manufacturing Company refleja problemas en su cadena de sum
 
 Como consultora especializada en análisis de datos, nos propusimos no solo ayudarles a visualizar sus stocks, sino a transformar su forma de operar mediante el poder de los datos. El primer paso fue comprender los datos existentes. La empresa ya había recopilado en 6 archivos, información sobre ventas, stock, compras, entregas y producción, pero los datos no estaban estructurados de manera óptima. Nuestro equipo comenzó a depurar y organizar estos datos, utilizando herramientas avanzadas de análisis para extraer patrones y puntos críticos.
 
-#### :fa-check: Nos enfocamos en los siguientes objetivos:
+#### Nos enfocamos en los siguientes objetivos:
 
 - Identificar patrones y tendencias en los datos de inventarios
 - Analizar la eficiencia del proceso de gestión de inventarios.
